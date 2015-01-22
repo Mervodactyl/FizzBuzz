@@ -1,1 +1,3 @@
-# FizzBuzz.js
+# README
+
+Thermostat in js
